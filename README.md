@@ -1,3 +1,4 @@
+![logo](https://github.com/Kuldip96/Kuldip96/blob/main/Group%202.png)
 <h1 align="center">Hi 👋, I'm Kuldip Bhuva</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
